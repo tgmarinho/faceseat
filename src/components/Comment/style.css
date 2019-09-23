@@ -1,0 +1,33 @@
+.comment-container {
+  display: flex;
+  margin-top: 10px;
+}
+
+.comment-avatar {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.comment-wrapper {
+  margin-left: 10px;
+  width: 100%;
+  background: #eeeeee;
+  border-radius: 10px;
+  height: 100%;
+  padding: 10px;
+}
+
+strong {
+  font-weight: bold;
+}
+
+.comment-text {
+  font-family: Helvetica;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 20px;
+  text-align: justify;
+}
