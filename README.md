@@ -8,7 +8,8 @@ As informações contidas na interface são **estáticas** e não precisam refle
 
 ## Tela da aplicação
 
-[FaceSeat](https://github.com/tgmarinho/Images/blob/master/bootcamp-rocketseat/desafio-intro-react.png?raw=true)
+
+![FaceSeat](https://github.com/tgmarinho/Images/blob/master/bootcamp-rocketseat/desafio-intro-react.png?raw=true)
 
 O layout não precisa ficar exatamente igual, você pode utilizar sua criatividade para modificar da maneira que preferir.
 
@@ -20,7 +21,7 @@ O layout da aplicação está em [nesse link](assets-desafio/layout.sketch) que 
 
 Na imagem abaixo destaquei cada componente que você criará e abaixo da imagem está a descrição e responsabilidades de cada um:
 
-![Componentes](assets-desafio/components.png)
+![Componentes](https://github.com/Rocketseat/bootcamp-gostack-desafio-04/raw/master/assets-desafio/components.png)
 
 **Header (Amarelo):** Responsável por exibir a logo e o link para acessar o perfil;
 
