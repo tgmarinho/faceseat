@@ -8,7 +8,7 @@ As informações contidas na interface são **estáticas** e não precisam refle
 
 ## Tela da aplicação
 
-![Facebook](assets-desafio/facebook.png)
+[FaceSeat](https://github.com/tgmarinho/Images/blob/master/bootcamp-rocketseat/desafio-intro-react.png?raw=true)
 
 O layout não precisa ficar exatamente igual, você pode utilizar sua criatividade para modificar da maneira que preferir.
 
@@ -70,10 +70,6 @@ posts.map(post => <Post key={post.id} data={post} />)
 data.comments.map(comment => <Comment key={comment.id} data={comment} />)
 ```
 
-## Entrega
 
-Esse desafio **não precisa ser entregue** e não receberá correção, mas você pode ver o resultado do código do desafio aqui: https://github.com/Rocketseat/bootcamp-gostack-desafio-04
-
-Após concluir o desafio, adicionar esse código ao seu Github é uma boa forma de demonstrar seus conhecimentos para oportunidades futuras.
 
 “Sucesso não é o resultado de um jogo, mas o destino de uma jornada”!
